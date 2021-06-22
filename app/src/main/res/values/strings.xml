@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RM Toolkit</string>
+
+    <!-- todo remove useless strings -->
+    <string name="login_button">Login</string>
+    <string name="login_success">Login success</string>
+    <string name="login_failed">Login failed</string>
+</resources>
